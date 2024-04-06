@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lamp Store App</string>
+    <string name="lamp">LAMP</string>
+    <string name="deft_accessoriesr">Deft accessoriesr</string>
+    <string name="table_lamp">TABLE LAMP</string>
+    <string name="suggest_for_you">Suggest for you</string>
+    <string name="view_all">View all</string>
+</resources>
